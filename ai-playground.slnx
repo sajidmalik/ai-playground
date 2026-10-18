@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="extensions-ai/extensions-ai.csproj" />
+  <Project Path="mcp-server/mcp-server.csproj" />
+  <Project Path="semantic-kernel-console/semantic-kernel-console.csproj" />
+  <Project Path="structured-output-chat/structured-output-chat.csproj" />
+  <Project Path="vector-data-ai/vector-data-ai.csproj" />
+</Solution>
